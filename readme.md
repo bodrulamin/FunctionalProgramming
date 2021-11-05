@@ -2,7 +2,7 @@
 
 ## 1. Get a list that contains all the people's names
 <details>
-<summary>Click to Expand</summary>
+<summary>Expand / collapse</summary>
 
 ```
 // Get a list that contains all the people's names
@@ -19,7 +19,7 @@
 
 ## 2. Get a list of blue cars
 <details>
-<summary>Click to Expand</summary>
+<summary>Expand / collapse</summary>
 
 
 
@@ -37,7 +37,7 @@
 
 ## 3. Get a sum of employees salary
 <details>
-<summary>Click to Expand</summary>
+<summary>Expand / collapse</summary>
 
 
 ``` 
