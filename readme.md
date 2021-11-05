@@ -6,7 +6,6 @@
 <summary>Expand / collapse</summary>
 
 ```
-// Get a list that contains all the people's names
     List<String> names = people
                 .stream()
                 .map(person -> person.name)
@@ -23,7 +22,6 @@
 <summary>Expand / collapse</summary>
 
 ```
-// Get a list of blue cars
     List<Car> blueCars = cars
                 .stream()
                 .filter(car -> car.color.equals("blue"))
@@ -39,7 +37,6 @@
 
 ``` 
 
-// Get a sum of employees salary
 
      Float salSum = employees
                 .stream()
