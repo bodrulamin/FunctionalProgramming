@@ -1,5 +1,9 @@
 # Functional Programming Excercise
 
+## 1. Get a list that contains all the people's names
+<details>
+<summary>Click to Expand</summary>
+
 ```
 // Get a list that contains all the people's names
     List<String> names = people
@@ -10,6 +14,15 @@
     System.out.println(names);
 ```
 
+</details>
+
+
+## 1. Get a list of blue cars
+<details>
+<summary>Click to Expand</summary>
+
+
+
 ```
 // Get a list of blue cars
     List<Car> blueCars = cars
@@ -17,6 +30,15 @@
                 .filter(car -> car.color.equals("blue"))
                 .collect(Collectors.toList());
 ```
+
+</details>
+
+
+
+## 1. Get a sum of employees salary
+<details>
+<summary>Click to Expand</summary>
+
 
 ``` 
 
@@ -33,3 +55,6 @@
 
 
 ```
+
+
+</details>
