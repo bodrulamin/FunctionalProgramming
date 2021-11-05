@@ -17,7 +17,7 @@
 </details>
 
 
-## 1. Get a list of blue cars
+## 2. Get a list of blue cars
 <details>
 <summary>Click to Expand</summary>
 
@@ -35,7 +35,7 @@
 
 
 
-## 1. Get a sum of employees salary
+## 3. Get a sum of employees salary
 <details>
 <summary>Click to Expand</summary>
 
